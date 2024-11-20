@@ -1,5 +1,5 @@
 
-# Fake Online Mod for DayZ Servers
+# Fake Online for DayZ Servers
 
 ![Logo](LP.png)
 
